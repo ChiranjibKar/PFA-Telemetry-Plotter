@@ -1,0 +1,37 @@
+CBtronix Labs Source License v2.0 (CBLSL v2.0)
+Copyright (c) 2026 CBtronix
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+study, and modify the Software for personal or internal purposes, subject to
+the following conditions:
+
+1. Modification:
+   You may modify, adapt, and improve the Software for personal or internal use,
+   including adding features or fixing bugs.
+
+2. No Redistribution:
+   You may NOT distribute, sublicense, publish, or share the Software, in whole
+   or in part, whether in original or modified form, to any third party.
+
+3. No Commercial Use:
+   You may NOT sell, license, or commercially exploit the Software, either as a
+   standalone product or as part of another product or service.
+
+4. Attribution:
+   You must retain this license and the original copyright notice in all copies
+   of the Software.
+
+5. No Misrepresentation:
+   You may NOT claim the Software as your own or remove attribution to the
+   original author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+GOVERNING LAW:
+This license shall be governed by and construed in accordance with the laws of India.
+Any disputes arising from or in connection with this license shall be subject to the
+exclusive jurisdiction of the courts located in Odisha, India.
