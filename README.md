@@ -103,9 +103,9 @@ This project is licensed under a **CBtronix Labs Source License v2.0 (CBLSL v2.0
 - Rebrand or sell as your own
 
 ### ⚠️ Note:
-This is NOT open-source. Source code is provided for usage only.
+This is **not fully open-source**. The source is shared with restrictions.
 
-For full terms, see the LICENSE file.
+See [LICENSE](./LICENSE) for full terms.
 
 
 <p align="center">
