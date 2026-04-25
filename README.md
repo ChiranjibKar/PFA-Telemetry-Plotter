@@ -16,10 +16,6 @@
 
 ---
 
-> 🚫 Modification of this source code is strictly prohibited.
-
----
-
 ## 🧠 Overview
 
 A powerful desktop application designed for analyzing and visualizing telemetry data after flight operations. Built using Python, it enables users to load large datasets and generate interactive plots including single, multi-line, subplots, and 3D visualizations. The tool offers advanced features like zoom & pan, data cursor inspection, animation playback, and junk data removal for precise analysis. With customizable themes, signal selection, and export options, it provides an efficient and user-friendly environment for engineers to interpret telemetry data quickly and accurately.
